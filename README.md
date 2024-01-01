@@ -18,3 +18,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ShadowTracker13&theme=highcontrast" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShadowTracker13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+![trophy](https://github-trophy.vercel.app/?username=ShadowTracker13)
