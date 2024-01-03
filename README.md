@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rahul Yadav aka Shadow Tracker and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Rahul Yadav aka Shadow Tracker and I'm a Hardware Pen Tester , from India </h2>
 
 ###
 
