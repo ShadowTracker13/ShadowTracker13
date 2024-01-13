@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhacker&psig=AOvVaw08H-wNnVFIB8B95eBh56xi&ust=1705207156205000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNi5wujF2YMDFQAAAAAdAAAAABAE" />
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized-large.gif" />
 
 ###
