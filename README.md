@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hardware Coding<br>👯 I’m looking to collaborate on pentesting Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning 
+🔭 I’m currently working on Hardware Coding<br>👯 I’m looking to collaborate on pentesting Projects<br>🤝 I’m looking for help with 
 
 
 # 💻 Tech Stack:
