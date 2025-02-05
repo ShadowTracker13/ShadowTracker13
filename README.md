@@ -1,4 +1,3 @@
-![header](https://github.com/user-attachments/assets/c371fbc3-60ff-4fe1-be8a-23ab03aeafde)
 
 <div>
   <h1>
