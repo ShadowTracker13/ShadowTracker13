@@ -3,7 +3,6 @@
     <img src="about_me.gif" width="50px"><b> About Me </b>
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShadowTracker13.ShadowTracker13">
 </h1>
-
 </div>
 🔐 Cybersecurity enthusiast specializing in Blockchain Analysis, Reverse Engineering, and System Administration. Passionate about encryption, vulnerability detection, and AI-driven solutions.
 ---
