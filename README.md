@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShadowTracker13&theme=tokyonight&custom_title=Stats&show_icons=true&hide_border=false&count_private=true" height="150" alt="GitHub Stats"   />  &nbsp;
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowTracker13&theme=react-dark&custom_title=Contribution%20Graph&hide_border=true&hide_border=false&count_private=true" height="150" alt="GitHub Stats"   />
 </div>
-
 <hr>
 <div align="center"> <img src="https://github-trophy.vercel.app/?username=ShadowTracker13&margin-w=10"></div>
 <hr>
