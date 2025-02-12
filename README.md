@@ -15,7 +15,6 @@
 <hr>
 <div align="center"> <img src="https://github-trophy.vercel.app/?username=ShadowTracker13&margin-w=10"></div>
 <hr>
-
 <table border="none" style="display: flex;">
  <tr><td><table width="45%">
     <tr>
