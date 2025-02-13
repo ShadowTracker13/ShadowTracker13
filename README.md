@@ -62,7 +62,6 @@
       <th>Category</th>
       <th>Skills</th>
     </tr>
-    
     <tr>
       <td><b>AI/Automation</b></td>
       <td>
