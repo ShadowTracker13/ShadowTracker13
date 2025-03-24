@@ -5,8 +5,7 @@
 </h1>
 </div>
 🔐 Cybersecurity enthusiast specializing in Blockchain Analysis, Reverse Engineering, and System Administration. Passionate about encryption, vulnerability detection, and AI-driven solutions.
----
-
+--- 
 <div align="center">  
   <img src="https://streak-stats.demolab.com/?user=ShadowTracker13&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak" />
   &nbsp;
