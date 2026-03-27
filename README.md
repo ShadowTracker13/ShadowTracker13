@@ -22,15 +22,6 @@
       <th>Skills</th>
     </tr>
     <tr>
-      <td><b>Programming Languages</b></td>
-      <td>
-        <!--<img src="https://img.icons8.com/ios/50/ffffff/c.png" width="40" alt="C"> &nbsp; -->
-        <img src="https://img.icons8.com/?size=100&id=55204&format=png&color=ffffff" width="40" alt="C#"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/c-plus-plus-logo.png" width="40" alt="C++"> &nbsp;
-        <img src="https://img.icons8.com/ios/50/ffffff/python.png" width="40" alt="Python"> &nbsp;
-      </td>
-    </tr>
-    <tr>
       <td><b>Backend Development</b></td>
       <td>
         <img src="https://img.icons8.com/ios/50/ffffff/django.png" width="40" alt="Django"> &nbsp;
